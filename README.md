@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lyubov Aleksandrova</h1>
-<h3 align="center">I am a passionate front-end developer who is pursuing a new career in something I truly enjoy. For the past nine months, I have been developing my skills as a web developer, learning how to create web applications with HTML, CSS, and JavaScript. I have always loved building things for the web and I have been working with JavaScript (ES6+), HTML & CSS lately.</h3>
+<h1>Hi 👋, I'm Lyubov Aleksandrova</h1>
+<h3>I am a passionate front-end developer who is pursuing a new career in something I truly enjoy. For the past nine months, I have been developing my skills as a web developer, learning how to create web applications with HTML, CSS, and JavaScript.</h3>
 
 - 🌱 I’m currently learning **React**
 
