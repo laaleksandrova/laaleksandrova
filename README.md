@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-<h3 align="left">Connect with me: laleks012@gmail.com</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">Email: laleks012@gmail.com</p>
 <p align="left">Telegram: @lyubov_aleksandrova</p>
 
